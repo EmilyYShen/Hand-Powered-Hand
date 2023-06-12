@@ -1,4 +1,4 @@
-Repo for our final project!
+Repo for final project (Embedded/Microcontroller Laboratory)!
 
 Code is uploaded separately to the transmitting (Nano) and receiving (Mega) microcontroller.
 
