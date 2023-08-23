@@ -1,4 +1,4 @@
-Repo for final project (Embedded/Microcontroller Laboratory)!
+Repo for Hand-Powered Hand!
 
 Code is uploaded separately to the transmitting (Nano) and receiving (Mega) microcontroller.
 
