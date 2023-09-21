@@ -21,7 +21,6 @@ The nRF24L01 modules are a very popular choice for wireless communication when u
 
 One of the RF modules was connected to each microcontroller. The module on the Arduino Nano worked as a transmitter to send the input values from the flex sensors, while the module on the Arduino Mega worked as a receiver to respond to the sensor input values. Using this form of wireless communication, the mechanical hand could be controlled all the way from the other side of the lab over thirty feet away. SPI was used to pass information between each transceiver and its respective microcontroller.
 
-
-See our Devpost for more information!
+See Devpost for more information!
 
 https://devpost.com/software/hand-powered-hand
