@@ -20,7 +20,3 @@ A pair of nRF24L01 transceiver modules was used to facilitate wireless communica
 The nRF24L01 modules are a very popular choice for wireless communication when using the Arduino and is the reason why they are used for this project. Their low power consumption makes them quite popular - they only use around 12 mA during transmission, which is even lower than a single LED. Their operating voltage is 3.3 V and they were connected to the 3.3 V pins on the Arduino.
 
 One of the RF modules was connected to each microcontroller. The module on the Arduino Nano worked as a transmitter to send the input values from the flex sensors, while the module on the Arduino Mega worked as a receiver to respond to the sensor input values. Using this form of wireless communication, the mechanical hand could be controlled all the way from the other side of the lab over thirty feet away. SPI was used to pass information between each transceiver and its respective microcontroller.
-
-See Devpost for more information!
-
-https://devpost.com/software/hand-powered-hand
